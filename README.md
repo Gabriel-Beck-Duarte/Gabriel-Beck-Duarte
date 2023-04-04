@@ -27,4 +27,4 @@
 </div>
 
   
-  ![Gabriel-Beck-Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Beck-Duarte&theme=dark&show_icons=true)
+  ![Gabriel-Beck-Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Beck-Duarte&theme=github_dark=true)
