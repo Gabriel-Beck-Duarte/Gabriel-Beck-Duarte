@@ -25,6 +25,3 @@
   ![Snake animation](https://github.com/Gabriel-Beck-Duarte/Gabriel-Beck-Duarte/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-  
-  ![Gabriel-Beck-Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Beck-Duarte&theme=github_dark=true)
