@@ -2,6 +2,9 @@
   <a href="https://github.com/Gabriel-Beck-Duarte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Beck-Duarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Beck-Duarte&layout=compact&langs_count=6&theme=tokyonight"/>
+    
+    <img src="https://camo.githubusercontent.com/f6b41e550efc8266875513b793f6b9815db931f8f900dc4a7b275eb5e2556085/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d746f6b796f6e69676874" alt="tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=tokyonight" style="max-width: 100%;">
+    
 </div>
   
 <div style="display: inline_block"><br>
